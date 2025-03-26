@@ -4,7 +4,7 @@
     <groupId>org.enricogiurin</groupId>
     <artifactId>ocp17-preparation</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>ocp17-preparation</name>
     <url>http://maven.apache.org</url>
     <properties>
